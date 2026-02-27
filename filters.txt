@@ -1,3 +1,4 @@
 ||rudderstack.com^
 ||intercom.io^
 ||googletagmanager.com^
+||sentry.io
